@@ -6,11 +6,11 @@
 
 This repository contains an implementation of a **Convolutional Neural Network (CNN)** for recognizing handwritten digits (0–9). The system supports:
 
-* Real-time digit recognition using a **webcam**
+* Real-time digit recognition using a **webcam**  
 ![live prediction](screenshots/from-webcam-ss.png)
-* Prediction from **static image files**
+* Prediction from **static image files**  
 ![prediction from image file](screenshots/from-image-ss.png)
-* Simple **GUI-based interaction** for ease of use
+* Simple **GUI-based interaction** for ease of use  
 ![gui-minimal-screenshot](screenshots/gui-minimal-ss.png)
 
 The project demonstrates the application of deep learning in image classification, specifically focused on handwritten digit recognition.
